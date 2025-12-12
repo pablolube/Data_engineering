@@ -31,19 +31,6 @@ Cada proyecto tiene su propio README con arquitectura, pipeline y decisiones té
 | **Otros** | Arquitectura Medallion, JSON Flattening, Data Cleaning |
 
 
-
-## 🛠️ Tecnologías Principales
-
-| Área | Tecnologías |
-|------|-------------|
-| **Lenguajes** | Python, SQL |
-| **Procesamiento** | Pandas, PyArrow, Delta Lake |
-| **Orquestación** | Pipelines manuales (próximamente Airflow / Prefect) |
-| **APIs** | Requests, REST API Integration |
-| **Almacenamiento** | MinIO / S3, Delta Lake |
-| **Entorno** | Jupyter Notebook, VS Code |
-| **Otros** | Arquitectura Medallion, JSON Flattening, Data Cleaning |
-
 ---
 
 ## 📬 Contacto
